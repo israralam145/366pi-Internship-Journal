@@ -1,6 +1,8 @@
 # Week 7 (7th August - 11th August, 2023)
 Here's my journey for week 7. This week, I'm working on coding the email signature layout and its implementation in different email services like Gmail, Outlook, and Apple Mail.
 
+Figma Link - https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updates-V1?node-id=844%3A1097&mode=dev
+
 # Friday, 11th August
 <h3>Plan</h3>
 
