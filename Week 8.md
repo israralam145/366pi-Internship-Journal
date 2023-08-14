@@ -9,6 +9,6 @@
 * Finalizing the templates.
 <h3>Progress</h3>
 
-* Gmail doesn't allow embedding base64 encoded images for security reasons while in Outlook, it's working.
+* One major issue encountered. Gmail doesn't allow embedding base64 encoded images for security reasons while in Outlook, it's working.
 * I'm researching it. Hope I'll find a way.
 * I was using a local file address for the image files. So that, the recipient does not receive the image. It was a very noob practice. Fixed that too.
