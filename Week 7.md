@@ -8,6 +8,7 @@ Figma Link - https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Upda
 
 * Working on implementation on Outlook.
 * Fixing the layout in Outlook because the format is not the same as Gmail.
+* Templates are now working as expected in outlook.
 
 <h3>Progress</h3>
 
