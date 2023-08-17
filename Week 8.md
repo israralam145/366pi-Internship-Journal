@@ -9,7 +9,8 @@
 
 <h3>Progress</h3>
 
-* When I copy paste the signature in the gmail signature textbox, it says signature is too long, try shorter one. I think the problem is the code which exceeds the character limit of the gmail signature while it accepts inn outlook.
+* When I copy paste the signature in the gmail signature textbox, it says signature is too long, try shorter one. I think the problem is the code which exceeds the character limit of the gmail signature as base64 image has too much characters in the code. Meanwhile it accepts in outlook.
+* Haven't triend in apple mail since I have not Apple ID.
 * I couldn't find the solution.
 
 # Monday, 14th August
