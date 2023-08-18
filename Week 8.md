@@ -2,6 +2,24 @@
 
 <h4>Last Week plans- </h4>https://github.com/israralam145/366pi-Internship-Journal/blob/main/Week%207.md
 
+# Friday, 18th August
+<h3>Plan</h3>
+
+* Got a new task today to work on the UI elements in [BetterPlanetTogether](https://betterplanettogether.org/) site.
+
+<h3>Progress</h3>
+
+* Started working on it.
+
+# Thursday, 17th August
+<h3>Plan</h3>
+
+* Working on the Email signature.
+
+<h3>Progress</h3>
+
+* I couldn't find any way to implement this. Nothing is impossible. Its a very challenging for me. I'll keep working on it.
+
 # Wednesday, 16th August
 <h3>Plan</h3>
 
@@ -9,8 +27,8 @@
 
 <h3>Progress</h3>
 
-* When I copy paste the signature in the gmail signature textbox, it says signature is too long, try shorter one. I think the problem is the code which exceeds the character limit of the gmail signature as base64 image has too much characters in the code. Meanwhile it accepts in outlook.
-* Haven't triend in apple mail since I have not Apple ID.
+* When I copy and paste the signature in the Gmail signature textbox, it says the signature is too long, try a shorter one. I think the problem is the code that exceeds the character limit of the Gmail signature as the base64 image has too many characters in the code. Meanwhile, it accepts in Outlook.
+* Haven't tried Apple Mail since I do not have Apple ID.
 * I couldn't find the solution.
 
 # Monday, 14th August
