@@ -9,7 +9,19 @@ Figma Link- https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updat
 # Monday, 14th August
 <h3>Plan</h3>
 
-* Working on the new UI of [Know the SDGs](https://betterplanettogether.org/KnowSDGs#) page.
+* Working on the responsiveness of the site.
+* Adding some small UI elements.
 <h3>Progress</h3>
 
 * 
+
+# Monday, 14th August
+<h3>Plan</h3>
+
+* Working on the new UI of [Know the SDGs](https://betterplanettogether.org/KnowSDGs#) page.
+<h3>Progress</h3>
+
+* contents have been added and hover elements are added where when the mouse hovers over the SDG images, a preview will be shown in a different container with text.
+* Added required padding and alignments to look the UI more appealing.
+* The site is not much responsive - Working on it.
+* Text is too large and the container is overflowing to the container - Fixed.
