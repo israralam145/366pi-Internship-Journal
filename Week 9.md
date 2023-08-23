@@ -6,7 +6,16 @@
 
 Figma Link- https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updates-V1?node-id=780%3A1208&mode=dev
 
-# Monday, 22nd August
+# Wednesday, 22nd August
+<h3>Plan</h3>
+
+* Working on the responsiveness of the site.
+* Adding some small UI elements.
+<h3>Progress</h3>
+
+* I'm having issues embedding twitter hashtag because twitter doesn't allow hashtag timeline. It only shows button. 
+
+# Tuesday, 22nd August
 <h3>Plan</h3>
 
 * Working on the responsiveness of the site.
