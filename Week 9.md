@@ -16,7 +16,7 @@ Figma Link- https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updat
 <h3>Progress</h3>
 
 * Twitter Hashtag timeline embedded. I used a website called [SocialableKIT](https://www.sociablekit.com/) which is a service allows to embed social media feeds in websites.
-* I did few steps to make work:
+* I did few steps to make it work:
   1.   Logged in with Google.
   2.   Then click on "Create Widget" button on the top right corner.
   3.   Now, there is a dropdown to select the widget type. Select "Twitter Hashtag Feed" then new textbox appears asking the hashtag name. Type the hashtag name (#betterplanettogether). Click on "Next".
