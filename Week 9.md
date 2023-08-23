@@ -6,7 +6,7 @@
 
 Figma Link- https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updates-V1?node-id=780%3A1208&mode=dev
 
-# Monday, 14th August
+# Monday, 22th August
 <h3>Plan</h3>
 
 * Working on the responsiveness of the site.
@@ -15,7 +15,7 @@ Figma Link- https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updat
 
 * I'm having issues embedding twitter hashtag because twitter doesn't allow hashtag timeline. It only shows button. 
 
-# Monday, 14th August
+# Monday, 21th August
 <h3>Plan</h3>
 
 * Working on the new UI of [Know the SDGs](https://betterplanettogether.org/KnowSDGs#) page.
