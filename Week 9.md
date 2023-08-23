@@ -1,4 +1,4 @@
-# Week 8 (14th August - 18th August, 2023)
+# Week 8 (21st August - 25th August, 2023)
 
 <h4>Last Week plans- </h4>https://github.com/israralam145/366pi-Internship-Journal/blob/main/Week%208.md.
 
@@ -6,7 +6,7 @@
 
 Figma Link- https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updates-V1?node-id=780%3A1208&mode=dev
 
-# Monday, 22th August
+# Monday, 22nd August
 <h3>Plan</h3>
 
 * Working on the responsiveness of the site.
@@ -15,7 +15,7 @@ Figma Link- https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updat
 
 * I'm having issues embedding twitter hashtag because twitter doesn't allow hashtag timeline. It only shows button. 
 
-# Monday, 21th August
+# Monday, 21st August
 <h3>Plan</h3>
 
 * Working on the new UI of [Know the SDGs](https://betterplanettogether.org/KnowSDGs#) page.
