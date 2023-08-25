@@ -8,7 +8,30 @@ Github link - https://github.com/israralam145/betterplanettogether
 
 Figma Link- https://www.figma.com/file/JyJ46hm1zZPsldpLTJN6Gm/FloCard(Web)-Updates-V1?node-id=780%3A1208&mode=dev
 
-# Wednesday, 23nd August
+# Friday, 25th August
+<h3>Plan</h3>
+
+* Adding hover element to the accordion. So that when the button reveals the content when the mouse is hovered over the button.
+<h3>Progress</h3>
+
+* Added the hover to the buttons.
+* But there was a issue. When i hover over the buttons nothing happened. but once button clicked then the hover works which makes no sense.
+* I've tried various methods and then noticed there is a problem in the css or theme file which conflicts the behaviour.
+* I inspected the code in the browser and then i figured out when button is clicked then "show" class added. So i hardcoded the show class which solves the problem.
+* Disabled the buttons in desktop view for proper working of hover since there is no need of clickable buttons in desktop view.
+* Looks like the task is finished as I showed my work to Kailash Sir and he said there is no such addon needed yet.
+
+# Thursday, 24th August
+<h3>Plan</h3>
+
+* Add accordion to the Collaboration section.
+<h3>Progress</h3>
+
+* Added accordion with the button.
+* Added styling to accordion header so that it matches the design and not look like a standard accordion.
+* Accordion body contains the text.
+
+# Wednesday, 23rd August
 <h3>Plan</h3>
 
 * Working on the twitter hashtag embedding.
